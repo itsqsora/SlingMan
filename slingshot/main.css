@@ -1,0 +1,16 @@
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(36, 36, 36);
+    overflow: hidden;
+  }
+
+  .text-version {
+      margin-left: 20px;
+      margin-top: 750px;
+      color: white;
+  }
